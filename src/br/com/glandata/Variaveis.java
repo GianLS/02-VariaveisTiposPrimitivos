@@ -16,6 +16,8 @@ public class Variaveis {
 		String nome = "Gian";
 
 		System.out.println("Resultado " + caracter + ": " + (numero1 + numero2 + numero3) + " " + nome);
+		
+		System.out.println(verifica);
 	}
 
 }
